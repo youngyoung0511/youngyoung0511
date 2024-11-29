@@ -1,4 +1,4 @@
-## AI engineering, Data Processing, Transmission 이것저것 🌱
+## AI engineering 개발자 김서영입니다 🌱
 
 <!--
 **youngyoung0511/youngyoung0511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
